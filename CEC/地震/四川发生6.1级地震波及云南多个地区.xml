@@ -77,7 +77,7 @@
 				</Event>， 
 				<Event eid="e13">
 					<Participant sid="s13,s14">该县的村镇</Participant>
-					<Denoter did="d13" type="stateChange"/>损失
+					<Denoter did="d13" type="stateChange">损失</Denoter>
 				</Event>较为严重， 
 				<Event eid="e14">
 					<Denoter did="d14" type="stateChange">倒塌</Denoter>
