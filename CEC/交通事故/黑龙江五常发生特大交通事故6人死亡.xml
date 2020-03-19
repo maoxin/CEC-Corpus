@@ -26,11 +26,11 @@
 					<Denoter type="action" did="d4">侧翻</Denoter> 
 				</Event>，致使 
 				<Event eid="e5"> 
-					<participant oid="o5">6人</participant>当场 
+					<Participant oid="o5">6人</Participant>当场 
 					<Denoter type="stateChange" did="d5">死亡</Denoter> 
 				</Event>， 
 				<Event eid="e6"> 
-					<participant oid="o6">11人</participant>不同程度 
+					<Participant oid="o6">11人</Participant>不同程度 
 					<Denoter type="stateChange" did="d6">受伤</Denoter> 
 				</Event>。
 			</Sentence> 

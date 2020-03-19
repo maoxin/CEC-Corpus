@@ -9,7 +9,7 @@
 				<Event eid="e1" type="thoughtevent">
 					<Participant sid="s1">新华网</Participant>
 					<Location lid="l1">杭州</Location>
-					<Title type="relTime" tid="t1">８月１４日</Title>
+					<Time type="relTime" tid="t1">８月１４日</Time>
 					<Denoter did="d1" type="statement">电</Denoter>
 				</Event> 　
 			</Sentence>  

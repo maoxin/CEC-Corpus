@@ -8,7 +8,7 @@
 			<Sentence> 
 				<Event eid="e1" type="thoughtevent"> 
 					<Participant sid="s1">新华网</Participant>
-					<Title type="relTime" tid="t1">9月10日</Title>
+					<Time type="relTime" tid="t1">9月10日</Time>
 					<Denoter type="statement" did="d1">电</Denoter>
 				</Event> 
 			</Sentence>  
