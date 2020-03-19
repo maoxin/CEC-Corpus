@@ -218,7 +218,7 @@
 				</Event>，
 				<Event eid="e40">
 					<Participant sid="s40">很多人</Participant>更是选择乘第一班能够离开巴厘岛的
-					<means type="tool" mid="m40">飞机</means>
+					<Means type="tool" mid="m40">飞机</Means>
 					<Denoter type="movement" did="d40">返家</Denoter>
 				</Event>。
 			</Sentence>

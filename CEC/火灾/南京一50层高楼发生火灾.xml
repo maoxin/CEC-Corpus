@@ -129,7 +129,7 @@
 			</Sentence>
 			<Sentence>
 				<Event polarity="negative" eid="e23">火灾中无
-					<Paragraph sid="s23">人员</Paragraph>
+					<Participant sid="s23">人员</Participant>
 					<Denoter did="d23" type="stateChange">伤亡</Denoter>
 				</Event>。
 			</Sentence>
